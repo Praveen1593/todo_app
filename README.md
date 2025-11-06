@@ -1,16 +1,26 @@
-# tasks_app
+# 🗂️ Flutter Tasks App
 
-A new Flutter project.
+A Flutter application to manage, edit, and share tasks efficiently.
 
-## Getting Started
+## ✨ Features
+- **Splash Screen**, **Home Page**, and **Task Detail Page**
+- Create, edit, delete, and share tasks
+- Task **search functionality**
+- View tasks by **status**:
+    -  Completed — shows only completed tasks
+    -  Pending — shows only pending tasks
+    -  Total — shows all tasks
+- On the **Task Detail Page**, you can **edit and save** a task
+- **Edited tasks** are updated and visible to the **task owner**
+- If you **copy a task ID and join**, the **joined task is highlighted** with a **blue indicator**
 
-This project is a starting point for a Flutter application.
+## 🚀 Tech Stack
+- **Flutter (Dart)**
+- **Riverpod** for state management
+- **Firebase** for backend services
+- **GitHub** for version control
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧩 Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Praveen1593/todo_app.git
