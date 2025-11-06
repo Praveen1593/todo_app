@@ -14,6 +14,17 @@ A Flutter application to manage, edit, and share tasks efficiently.
 - **Edited tasks** are updated and visible to the **task owner**
 - If you **copy a task ID and join**, the **joined task is highlighted** with a **blue indicator**
 
+## 🖼️ Screenshots
+
+### 🚀 Splash Screen
+![Splash Screen](screenshots/splash.jpeg)
+
+### 🏠 Home Page
+![Home Page](screenshots/home.jpeg)
+
+### 📝 Task Detail Page
+![Task Detail Page](screenshots/task_detail.jpeg)
+
 ## 🚀 Tech Stack
 - **Flutter (Dart)**
 - **Riverpod** for state management
